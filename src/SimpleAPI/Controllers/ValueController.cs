@@ -22,6 +22,6 @@ public class ValueController : ControllerBase
     [HttpGet]
     public ActionResult<string> Get()
     {
-        return "Laxman";
+        return "Pihu";
     }
 }
